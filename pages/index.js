@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { Outfit } from 'next/font/google'
-import Graph from '@/components/graph'
+// import Graph from '@/components/graph'
 import React, { useEffect, useRef } from 'react'
 import { motion } from 'framer-motion'
 import { setConfig } from 'next/config'
